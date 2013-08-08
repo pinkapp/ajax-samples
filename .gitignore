@@ -4,3 +4,6 @@ target/*
 .project
 
 /target
+
+.mymetadata
+src/main/webapp/WEB-INF/classes/
