@@ -12,7 +12,7 @@ If m2e is not there, just follow the install process here: http://eclipse.org/m2
 
 1) In the command line
 ```
-git clone git@github.com:michaelisvy/ajax-samples.git
+git clone git@https://github.com/pinkapp/ajax-samples.git
 ```
 2) Inside Eclipse
 ```
